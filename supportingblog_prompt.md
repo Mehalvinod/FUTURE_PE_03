@@ -14,7 +14,7 @@ Generate a supporting SEO blog that links to a pillar blog and targets a specifi
 
 ## Input Variables
 - Blog Topic: From Doubt to Distinction
-- Primary Keyword: JEE NEET FOUNDATION(6-12)
+- Primary Keyword: JEE NEET FOUNDATION (8&9)
 
 ## Content Requirements
 - Write 800–1200 words
