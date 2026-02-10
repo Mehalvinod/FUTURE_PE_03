@@ -1,5 +1,5 @@
 # AI SEO Blog & Content Cluster Generator  
-### Prompt Engineering Task 3 – Future Interns (2026)
+### Prompt Engineering Task 3
 
 ##  Project Overview
 
