@@ -8,7 +8,7 @@ Adapt the given blog content to target a specific city and local audience withou
 
 ## Input Variables
 - Original Blog Content
-- Target City: {{CITY}}
+- Target City: Banglore
 - Business Type: Coaching Institute
 - Target Exams: JEE, NEET, Foundation
 
@@ -21,7 +21,7 @@ Adapt the given blog content to target a specific city and local audience withou
 ## SEO Requirements
 - Optimize title and headings with service + location keywords
 - Include location-based phrases such as:
-  “coaching institute in {{CITY}}”
+  “Coaching Institute in Banglore”
 - Ensure content feels written for local students and parents
 
 ## Output
