@@ -111,6 +111,5 @@ This repository demonstrates the ability to:
 
 ---
 
-⭐ If you find this project useful, feel free to explore or fork.
 
 
