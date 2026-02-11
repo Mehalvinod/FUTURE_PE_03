@@ -19,5 +19,5 @@ CTA:
 Internal Linking Strategy:
 
 Link to pillar with anchor:
-“Looking for the best competitive exam coaching in Bangalore? Explore all programs here.”# Keyword & Search Intent Strategy
+“Looking for the best competitive exam coaching in Bangalore? Explore all programs here.”
 
